@@ -1,0 +1,16 @@
+#Rowen Dsa 31-May-2026
+#This program was written to understand if statements
+age = 22
+
+if age < 2:
+    print("Person is a Baby.")
+elif age >= 2 and age < 4:
+    print("Person is a Toddler.")
+elif age >= 4 and age < 13:
+    print("Person is a Kid.")
+elif age >= 13 and age < 20:
+    print("Person is a Teenager.")
+elif age >=20 and age < 65:
+    print("Person is an Adult.")
+elif age >= 65:
+    print("Person is an Elder.")

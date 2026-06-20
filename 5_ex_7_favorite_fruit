@@ -1,0 +1,16 @@
+#Rowen Dsa 31-May-2026
+#This program was written to understand if statements
+favorite_fruits = ['banana', 'orange', 'mango', 'pear']
+
+if 'banana' in favorite_fruits:
+    print("You really like bananas!")
+if 'kiwi' in favorite_fruits:
+    print("You really like kiwi!")
+if 'orange' in favorite_fruits:
+    print("You really like orange!")
+if 'mangostein' in favorite_fruits:
+    print("You really like mangostein!")
+if 'pear' in favorite_fruits:
+    print("You really like pear!")
+
+print("Thanks for letting us know!")
